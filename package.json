@@ -1,5 +1,5 @@
 {
-        "name"    : "uglify-js",
+        "name"    : "aaronblohowiak-uglify-js",
 
         "author"  : {
                 "name"  : "Mihai Bazon",
@@ -12,11 +12,11 @@
         "main"    : "./uglify-js.js",
 
         "bin"     : {
-                "uglifyjs" : "./bin/uglifyjs"
+                "aaronblohowiak-uglifyjs" : "./bin/uglifyjs"
         },
 
         "repository": {
                 "type": "git",
-                "url": "git@github.com:mishoo/UglifyJS.git"
+                "url": "git@github.com:aaronblohowiak/UglifyJS.git"
         }
 }
