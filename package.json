@@ -1,10 +1,10 @@
 {
-        "name"    : "uglify-js",
+        "name"    : "aaronblohowiak-plugify-js",
 
         "author"  : {
-                "name"  : "Mihai Bazon",
-                "email" : "mihai.bazon@gmail.com",
-                "url"   : "http://mihai.bazon.net/blog"
+                "name"  : "Aaron Blohowiak",
+                "email" : "aaron.blohowiak@gmail.com",
+                "url"   : "http://aaronblohowiak.com"
         },
 
         "version" : "1.0.6",
@@ -12,11 +12,11 @@
         "main"    : "./uglify-js.js",
 
         "bin"     : {
-                "uglifyjs" : "./bin/uglifyjs"
+                "plugifyjs" : "./bin/uglifyjs"
         },
 
         "repository": {
                 "type": "git",
-                "url": "git@github.com:mishoo/UglifyJS.git"
+                "url": "git@github.com:aaronblohowiak/UglifyJS.git"
         }
 }
